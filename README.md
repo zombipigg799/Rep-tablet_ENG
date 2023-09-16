@@ -1,4 +1,4 @@
-# Rep-tablet_SWE
+# Rep-tablet_ENG
 Script Translate to english
 
 Credit to: https://github.com/Rep-Scripts/rep-tablet
